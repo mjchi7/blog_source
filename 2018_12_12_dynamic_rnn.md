@@ -12,7 +12,7 @@ data = ["Some", "random", "data", "."]
 ```
 The data can be viewed in terms of `time_steps`, where the element `"Some"` can be refer to *input at time step 1*, $x_{t=1}$, `"random"` as $x_{t=2}$, `"data"` as $x_{t=3}$, and `"."` as $x_{t=4}$.
 
-![figure-1](source\2018_12_12_dynamic_rnn\diag1_rnn_normal.png)  
+![figure-1](source/2018_12_12_dynamic_rnn/diag1_rnn_normal.png)  
 <center>Figure 1: Basic RNN Operation.</center>
 
 
